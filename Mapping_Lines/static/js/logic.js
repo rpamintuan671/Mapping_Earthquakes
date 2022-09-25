@@ -14,6 +14,7 @@ let line = [
   
 ];
 
+
 // Make the route a blue dashed line, with a weight of 4 and opacity of 0.5 on the light map.
 L.polyline(line, {
   color: "blue",
@@ -38,6 +39,7 @@ let cityData = cities;
     // fillColor: "orange",
     // lineweight: 4
   // })
+
 
   // commas added as separator on population (city.population.toLocaleString)
   
