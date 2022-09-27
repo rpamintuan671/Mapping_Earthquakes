@@ -145,6 +145,6 @@ d3.json(earthquake).then(function(data) {
   legend.addTo(map);
   
         // Then we add the earthquake layer to our map.
-        earthquakes.addTo(map)
-        
+        earthquakes.addTo(map);
+
     });
