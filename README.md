@@ -14,8 +14,8 @@ The purpose of this project is to find out if the earthquakes that are over 4.5 
 The majority of the earthquakes with  magnitue of over 4.5 had occured closed to the tectonic plates worldwide. An interactive map webpage was created with datas from resources pulled from USGS.gov website.
 
 
-## Link to Interactive Maps webpage
-Follow the link to deploy the [interactive maps webpage](https://rpamintuan671.github.io/Earthquakes/) or the click on the image below. 
+## Link to Interactive Maps
+Follow the link to deploy the webpage of [interactive maps](https://rpamintuan671.github.io/Earthquakes/) or the click on the image below. 
 
 A legend is provided in the top right corner of the map. Users have an option to choose 3 different types of maps from street, satellite and Dark view. Users would also be able to click on the earthquakes alone or show tectonic plates or major earthquakes.
 
