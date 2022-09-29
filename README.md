@@ -15,7 +15,7 @@ The majority of the earthquakes with  magnitue of over 4.5 had occured closed to
 
 
 ## Link to Interactive Maps webpage
-Follow the link to deploy the ![interactive maps webpage](https://rpamintuan671.github.io/Earthquakes/)
+Follow the link to deploy the interactive maps webpage: https://rpamintuan671.github.io/Earthquakes
 
 A legend is provided in the top right corner of the map. Users have an option to choose 3 different types of maps from street, satellite and Dark view. Users would also be able to click on the earthquakes alone or show tectonic plates or major earthquakes.
 
