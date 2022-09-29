@@ -118,7 +118,7 @@ function styleInfo(feature) {
   return {
     opacity: 1,
     fillOpacity: 1,
-    fillColor: getColor(feature.properties.mag),
+    fillColor: getMajorColor(feature.properties.mag),
     color: "#000000",
     radius: getRadius(feature.properties.mag),
     stroke: true,
@@ -127,7 +127,7 @@ function styleInfo(feature) {
 }
 
 // 5. Change the color function to use three colors for the major earthquakes based on the magnitude of the earthquake.
-function getColor(magnitude) {
+function getMajorColor(magnitude) {
   if (magnitude < 5) {
     return "#ea2c2c";
   }
