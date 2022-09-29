@@ -19,4 +19,6 @@ Follow the link to deploy the [interactive maps webpage](https://rpamintuan671.g
 
 A legend is provided in the top right corner of the map. Users have an option to choose 3 different types of maps from street, satellite and Dark view. Users would also be able to click on the earthquakes alone or show tectonic plates or major earthquakes.
 
-![Interactive Earthquake Map](../Interactive%20Earthquake%20Maps.png)
+
+## Major Earquakes Around the World
+![Interactive Earthquake Map](https://github.com/rpamintuan671/Mapping_Earthquakes/blob/dbb8b59dfba29a31fca03c60ec20f38cfc2902a3/Interactive%20Earthquake%20Maps.png)
